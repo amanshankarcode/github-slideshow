@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
---- is this the one
-new updated text here hooray !!!!!!!!!!!!!!!!!
+is this the one
+changes were made
 Use the left arrow to go back! or this 
